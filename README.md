@@ -5,4 +5,4 @@ experimental project
 
 File|Build Status
 ---|---
-[![Build Status](https://travis-ci.com/chance-lau/hello-world.svg?branch=master)](https://travis-ci.com/chance-lau/hello-world)
+hello.c[![Build Status](https://travis-ci.com/chance-lau/hello-world.svg?branch=master)](https://travis-ci.com/chance-lau/hello-world)
