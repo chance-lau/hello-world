@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int main{
+int main(){
   printf("This is a test file");
   return 0;
 }
